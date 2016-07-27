@@ -1,0 +1,5 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+ao se criar um repositório GIT és criado uma pasta oculta (.git) que contém metadados dos arquivos contidos na pasta a respeito de todos os arquivos da pasta
+
+esse procedimento é necessário para que o git consiga rastrear os arquivos para que seja realizado o controle de versão

@@ -1,0 +1,7 @@
+Para pesquisar diferenças em um dois arquivos quaisquer no windows utilize o prompt
+- Abra o promp e vá até a pasta com os dois arquivos para comparar
+- Digite (FC de File Compare) 
+
+FC aquivo1 arqivo2
+
+- O promp irá exibir as diferenças nos dois arquivos.

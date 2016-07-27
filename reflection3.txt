@@ -1,0 +1,3 @@
+Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+
+essa modelo é utilizado, pois uma alteração em um determinado arquivo (html por exemplo) pode afetar outros arquivos (como um arquivo css por exemplo). Assim o git armazena vários arquivos em um repositório, assim caso haja uma mudança em um arquivo que altere os outros arquivos do repositório eles também serão modificados.

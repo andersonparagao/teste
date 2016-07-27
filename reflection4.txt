@@ -1,0 +1,5 @@
+Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+
+O comando git log mostra todos os commits realizados pelo programador
+
+O comando git diff mostra as alterações entre os commits, mostrando as inserções e as deleções de uma versão para outra, bem como as alterações nas respectivas linhas.

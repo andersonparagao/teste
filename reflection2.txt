@@ -1,0 +1,3 @@
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+
+podemos utilizar ferramenta como o DropBox, o GoogleDrive para podermos ter um controle eficiente de versões de nossos programas.
